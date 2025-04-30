@@ -1,7 +1,7 @@
 {
-  "name": "𝐁.𝐌.𝐁-𝐗𝐌𝐃",
+  "name": "Saqib-SarwR",
   "description": "Javascript WhatsApp bot made by 𝙱.𝙼.𝙱-𝚇𝙼𝙳 ",
-  "keywords": ["𝐁.𝐌.𝐁-𝐗𝐌𝐃"],
+  "keywords": ["Saqib-Sarwar"],
   
   
   "logo": "https://ibb.co/Cs0L5Rj0",
@@ -19,7 +19,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/nu93in.jpg"
+      "value": "https://files.catbox.moe/2zd5uy.jpeg"
     }, 
     
     "LIVE_MSG": {
@@ -88,7 +88,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐁.𝐌.𝐁-𝐗𝐌𝐃✨"
+      "value": "Saqib-Sarwar✨"
 }, 
 
     "OWNER_NUMBER": {
@@ -100,7 +100,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐁.𝐌.𝐁-𝐗𝐌𝐃"
+      "value": "Saqib-Sarwar"
 
       }, 
 
@@ -120,7 +120,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*𝐁.𝐌.𝐁-𝐗𝐌𝐃*"
+      "value": "*Saqib-Sarwar*"
     },
 
       "DELETE_LINKS": {
